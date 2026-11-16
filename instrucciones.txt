@@ -1,0 +1,53 @@
+HOGAR_MBARETE — SITIO INDEPENDIENTE
+=================================
+
+1. ARCHIVOS
+Renombrá index.html.txt a index.html.
+Renombrá styles.css.txt a styles.css.
+Guardalos juntos en una misma carpeta.
+Abrí index.html en tu navegador para verlo.
+
+2. FOTOS
+Creá una carpeta llamada imagenes al lado de index.html.
+No se incluyeron fotos porque todavía no fueron proporcionadas.
+El HTML contiene ejemplos comentados de cómo reemplazar los espacios por imágenes.
+Para el banner, descomentá su imagen y guardá tu foto como imagenes/banner.jpg.
+Si el banner es oscuro, agregá cover-light-text junto a cover en la sección de portada.
+Para las lámparas, reemplazá el div de fotografía pendiente por la etiqueta img de ejemplo.
+Completá el texto alternativo con una descripción real. Usá fotos WebP o JPG optimizadas.
+No cargues el banner de forma diferida; las fotos del catálogo pueden usar loading="lazy".
+
+3. COMPRAS
+Actualmente todos los botones apuntan al listado del vendedor:
+https://listado.mercadolibre.com.ar/_CustId_1127790794
+En cada modelo, reemplazá esa dirección por el enlace de su publicación.
+Reemplazala tanto en su botón principal como en el botón dentro de Conocer diseño.
+El menú y el banner pueden conservar el enlace al listado general.
+Los enlaces abren Mercado Libre en una pestaña nueva.
+No hay carrito, pagos ni checkout en este sitio.
+
+4. AGREGAR LÁMPARAS
+Duplicá un bloque article con la clase product dentro del catálogo.
+Cambiá su nombre, descripción, fotografías y enlaces.
+No hay un límite fijo de cuatro modelos. La grilla se adapta automáticamente.
+El precio es opcional; hay una línea de ejemplo comentada en cada producto.
+
+5. DETALLES DE LOS PRODUCTOS
+Conocer diseño despliega información y dos espacios de fotos en la misma página.
+No hay páginas individuales ni un CMS: esta versión usa solo HTML y CSS.
+
+6. PUBLICAR
+Subí index.html, styles.css y la carpeta imagenes al directorio público de tu hosting.
+También podés usar un hosting estático como Netlify, GitHub Pages o Cloudflare Pages.
+No hace falta compilar ni instalar dependencias.
+Google Fonts requiere conexión; si no carga, se usan fuentes locales alternativas.
+Para actualizar, editá los archivos y volvé a subirlos.
+
+7. ANTES DE COMPARTIRLO
+Completá las fotos, nombres reales, descripciones y enlaces individuales.
+Verificá Instagram y el destino de Contacto (actualmente Instagram).
+Revisá celular y escritorio, y probá todos los botones.
+Agregá tu dominio y fotografía para compartir en las etiquetas indicadas en el HTML.
+
+Esta es una reconstrucción independiente del diseño, no una exportación exacta de Framer.
+El proyecto original de Framer no fue modificado ni publicado durante esta entrega.
